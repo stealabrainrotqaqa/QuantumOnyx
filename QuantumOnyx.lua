@@ -16,7 +16,7 @@ local API_CONFIG = {
     }
 }
 
-local Directory = "https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/Games"
+local Directory = "https://raw.githubusercontent.com/stealabrainrotqaqa/QuantumOnyx/refs/heads/main/Games/"
 local Scripts = {
     Free = {
         [994732206] = Directory .. "/BloxFruits.lua",
